@@ -4,6 +4,7 @@ public class Runtime {
 
     public static void main(String[] args) {
 	// Example for everyday singleton object
+    // experimenting with pre-built singleton class
 
         //trying to fetch runtime object
         java.lang.Runtime singletonObject =  java.lang.Runtime.getRuntime();
